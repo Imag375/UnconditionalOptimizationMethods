@@ -1,0 +1,11 @@
+//
+// Created by Анастасия on 26.05.2019.
+//
+
+#ifndef UNCONDITIONALOPTIMIZATIONMETHODS_HUKGIVS_H
+#define UNCONDITIONALOPTIMIZATIONMETHODS_HUKGIVS_H
+class HukGivs {
+public:
+    void hukGivsMethod();
+};
+#endif //UNCONDITIONALOPTIMIZATIONMETHODS_HUKGIVS_H

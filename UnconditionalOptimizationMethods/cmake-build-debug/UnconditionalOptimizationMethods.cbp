@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="UnconditionalOptimizationMethods"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UnconditionalOptimizationMethods">
+				<Option output="G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/UnconditionalOptimizationMethods.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/5.4.0/include"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/5.4.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/5.4.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++"/>
+					<Add directory="C:/Program Files/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 UnconditionalOptimizationMethods"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UnconditionalOptimizationMethods/fast">
+				<Option output="G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/UnconditionalOptimizationMethods.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/5.4.0/include"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/5.4.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/5.4.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++"/>
+					<Add directory="C:/Program Files/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw64/lib/gcc/../../x86_64-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 UnconditionalOptimizationMethods/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;G:/CLionProjects/UnconditionalOptimizationMethods/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/CoordinateDescent.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/CoordinateDescent.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/FletcherReeves.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/FletcherReeves.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/Functions.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/Functions.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/GradDesWithConstStep.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/GradDesWithConstStep.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/HukGivs.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/HukGivs.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/NelderMid.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/NelderMid.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/Newton.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/Newton.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/NewtonRaphson.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/NewtonRaphson.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/QuickGradDescent.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/QuickGradDescent.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/Simpleks.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/Simpleks.h">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/src/main.cpp">
+			<Option target="UnconditionalOptimizationMethods"/>
+		</Unit>
+		<Unit filename="G:/CLionProjects/UnconditionalOptimizationMethods/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

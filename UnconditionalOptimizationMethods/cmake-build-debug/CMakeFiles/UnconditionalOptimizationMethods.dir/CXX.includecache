@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/CLionProjects/UnconditionalOptimizationMethods/src/Functions.h
+
+G:/CLionProjects/UnconditionalOptimizationMethods/src/NelderMid.cpp
+NelderMid.h
+G:/CLionProjects/UnconditionalOptimizationMethods/src/NelderMid.h
+Functions.h
+G:/CLionProjects/UnconditionalOptimizationMethods/src/Functions.h
+iostream
+-
+stdio.h
+-
+c++/cmath
+-
+
+G:/CLionProjects/UnconditionalOptimizationMethods/src/NelderMid.h
+
